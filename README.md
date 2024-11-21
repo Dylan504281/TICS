@@ -24,6 +24,7 @@ Realidad virtual y aumentada.
     <h2>Y ésta es una cabecera un poco más pequeña</h2>
              <ul>
                    <li>Este es un elemento de una lista de viñetas (la primera)</li>
+                 file:///C:/Users/gilbe/Desktop/Biolog%C3%ADa/index.html
                    <li>Y este es el segundo elemento</li>
              </ul>
      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.significados.com%2Ftic%2F&psig=AOvVaw1zHRiEmK7GzuHK-Kfitpib&ust=1730508648558000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjA-5z1uYkDFQAAAAAdAAAAABAE" alt="Image 1">
